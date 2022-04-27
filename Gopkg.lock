@@ -78,7 +78,7 @@
   name = "github.com/yoonjongseoo/streamer"
   packages = ["."]
   pruneopts = "UT"
-  revision = "b4a91bd3548cc5b34477b76aa21db8569c287331"
+  revision = "0efc6c117dee8637788fe1b9b163c0703187ed0e"
   version = "v1.0.0"
 
 [[projects]]
