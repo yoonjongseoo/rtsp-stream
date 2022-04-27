@@ -128,7 +128,7 @@
     "github.com/dgrijalva/jwt-go",
     "github.com/julienschmidt/httprouter",
     "github.com/kelseyhightower/envconfig",
-    "github.com/riltech/streamer",
+    "github.com/yoonjongseoo/streamer",
     "github.com/rs/cors",
     "github.com/sirupsen/logrus",
     "github.com/stretchr/testify/assert",
